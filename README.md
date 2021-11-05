@@ -5,5 +5,5 @@ This is our group project for Programming 2
 > "Join q" -Max, 2021
 ## Documentation
 
-![image](ProjectCrouton.png)
+![image](res/ProjectCrouton.png)
 
