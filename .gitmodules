@@ -1,0 +1,3 @@
+[submodule "crispy-doom"]
+	path = crispy-doom
+	url = https://github.com/fabiangreffrath/crispy-doom
