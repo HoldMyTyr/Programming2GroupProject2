@@ -1,9 +1,11 @@
 Created GitHub page - HoldMyTyr
 
-Invited Collaborators - HoldMyTyr, Sothanforax, Stackson, tate8
+Invited Collaborators - 9/9/21 - HoldMyTyr, Sothanforax, Stackson, tate8
 
-Added small details and a badge - Sothanforax
+Added small details and a badge - 9/10/21 - Sothanforax
 
-Added Flowchart for Project - HoldMyTyr
+Added Flowchart for Project - 11/5/21 - HoldMyTyr
 
-Added Crispy-Doom - Sothanforax
+Added Crispy-Doom - 12/14/21 - Sothanforax
+
+Switched to forked Crispy-Doom - 12/16/21 - Sothanforax
