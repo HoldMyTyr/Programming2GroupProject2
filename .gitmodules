@@ -1,1 +1,4 @@
 
+[submodule "crispy-doom"]
+	path = crispy-doom
+	url = https://github.com/Sothanforax/crispy-doom.git
